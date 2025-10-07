@@ -1,20 +1,17 @@
 ---
 name: Karla S Fuller, Ph.D.
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+image: images/DSC03747.jpg
+role: Principal Investigator
+affiliation: Guttman Community College - CUNY
 aliases:
-  - J. Smith
-  - J Smith
+  - K. Smith
+  - K Smith
+  - K. Fuller
+  - K Fuller
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: 
+  orcid: 0000-0003-0169-9557
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Fuller has her Ph.D. in Cancer Cell Biology. These days, her research focuses
+on the use of data science to answer questions about gene expression.
