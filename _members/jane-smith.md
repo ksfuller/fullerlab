@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Karla S Fuller, Ph.D.
 image: images/photo.jpg
 role: principal-investigator
 affiliation: University of Colorado
